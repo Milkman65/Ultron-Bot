@@ -180,6 +180,6 @@ async def avatar(ctx, member: discord.Member):
     await client.say(embed=embed) 
 
 
-client.run("NDUyMzI2OTgyMTYwNDgyMzE1.DfOwyw.5CL-Yf3LBax04yYVj2bv-9dFBbw")
+client.run(os.getenv('TOKEN'))
 
 
