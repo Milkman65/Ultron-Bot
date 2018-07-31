@@ -1,4 +1,4 @@
-import os
+
 import discord
 from discord.ext.commands import Bot
 from discord.ext import commands
@@ -179,6 +179,6 @@ async def avatar(ctx, member: discord.Member):
     await client.say(embed=embed) 
 
 
-client.run(os.getenv('TOKEN'))
+client.run("Xm8SGF1wm7F2PXJKzVoaJlYjDq8MZfus")
 
 
