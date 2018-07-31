@@ -1,5 +1,4 @@
-import traceback
-import sys
+
 import discord
 from discord.ext.commands import Bot
 from discord.ext import commands
