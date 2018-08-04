@@ -1,2 +1,2 @@
-# Discord-bot
-For ultron bot
+# Ultron-bot
+The source code for Ultron using discords api.
